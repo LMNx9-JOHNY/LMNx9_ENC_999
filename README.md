@@ -1,5 +1,5 @@
 # LMNx9_ENC_999
-# Marshal Encrypt 🤟
+# Marshal Encrypt ⚠️
 # Command 👇
 
 pkg update && pkg upgrade
