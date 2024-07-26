@@ -1,32 +1,33 @@
-# LMNx9_ENC_999
-# PYTHON ENCODER 🔥
- Python All Encryption Available !
-![logo](https://github.com/LMNx9-JOHNY/LMNx9_ENC_999/blob/main/Screenshot_20231117-214735.png)
-# Command 👇
+# LMNx9 ENC v3.0
 
-     pkg update && pkg upgrade
+⚙️ Encode Zlib
+⚙️ Encode Base16
+⚙️ Encode Base32
+⚙ Encode Base64
+⚙️ Encode Marshal
+⚙ Encode Zlib+Base16
+⚙ Encode Zlib+Base32
+️⚙️ Encode Zlib+Base64
+⚙ Encode Marshal+Zlib
+⚙ Encode Marshal+Base16
+⚙ Encode Marshal+Base32
+⚙ Encode Marshal+Base64
+⚙ Encode Marshal+Zlib+Base16
+⚙ Encode Marshal+Zlib+Base32
+⚙ Encode Marshal+Zlib+Base64
+⚙ Encode Fake Cythonize-X
 
-     pkg install python
+![](https://github.com/LMNx9-JOHNY/LMNx9_ENC_999/blob/main/Demo_ENC_v3.jpg)
 
-     pkg install git
-
-     pip install requests
-
-     pip install bs4
-
-     pip install rich
-  
-     pip install michanize
-
-     pip install future
-
-     pip install urllib3
+# Installation :
+    rm -rf LMNx9_ENC_999
+    apt update && upgrade
+    dpkg --configure -a
+    pkg install python3
+    git clone --depth=1 https://github.com/LMNx9-JOHNY/LMNx9_ENC_999
+    cd LMNx9_ENC_999
+    chmod +x *
+    python3 LMNx9_ENC_v3.py
 
 
-     git clone https://github.com/LMNx9-JOHNY/LMNx9_ENC_999.git
-
-     cd LMNx9_ENC_999
-
-     python LMNx9_ENC_v2.py
-
-# DARK LMNx9
+#  [JOIN TELEGRAM](https://t.me/DARK_TEAM_LMNx9)
