@@ -17,7 +17,7 @@
 ⚙ Encode Marshal+Zlib+Base64
 ⚙ Encode Fake Cythonize-X
 
-![](https://github.com/LMNx9-JOHNY/LMNx9_ENC_999/blob/main/PhotoCollage_1723632014792.jp)
+![](https://github.com/LMNx9-JOHNY/LMNx9_ENC_999/blob/main/PhotoCollage_1723632014792.jpg)
 
 # Installation :
     rm -rf LMNx9_ENC_999
