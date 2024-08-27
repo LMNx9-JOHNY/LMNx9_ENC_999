@@ -1,4 +1,4 @@
-# LMNx9 ENC v4.0
+# LMNx9 ENC v4.1
 
 ⚙️ Encode Zlib
 ⚙️ Encode Base16
@@ -26,7 +26,7 @@
     git clone --depth=1 https://github.com/LMNx9-JOHNY/LMNx9_ENC_999
     cd LMNx9_ENC_999
     chmod +x *
-    ./V4
+    ./v4.1
 
 
 #  [JOIN TELEGRAM](https://t.me/DARK_TEAM_LMNx9)
